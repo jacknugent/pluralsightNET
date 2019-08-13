@@ -1,0 +1,11 @@
+/Users/jnugent/Documents/pluralsightNET/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.deps.json
+/Users/jnugent/Documents/pluralsightNET/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.runtimeconfig.json
+/Users/jnugent/Documents/pluralsightNET/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.runtimeconfig.dev.json
+/Users/jnugent/Documents/pluralsightNET/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.dll
+/Users/jnugent/Documents/pluralsightNET/gradebook/src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.pdb
+/Users/jnugent/Documents/pluralsightNET/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.csprojAssemblyReference.cache
+/Users/jnugent/Documents/pluralsightNET/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.csproj.CoreCompileInputs.cache
+/Users/jnugent/Documents/pluralsightNET/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.AssemblyInfoInputs.cache
+/Users/jnugent/Documents/pluralsightNET/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.AssemblyInfo.cs
+/Users/jnugent/Documents/pluralsightNET/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.dll
+/Users/jnugent/Documents/pluralsightNET/gradebook/src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.pdb
